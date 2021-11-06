@@ -1,3 +1,7 @@
-### A software engineer combining craftsmanship with pragmatism
+## 👋 Hey There!
 
-Experienced Software Architect and Manager. Founder of [Evelion](https://evelion.org).
+### I'm Chris Laskey, a software engineer combining craftsmanship with pragmatism.
+
+I'm an experienced Software Architect and Manager. Former IBMer. Former startup employee with a successful exit.
+
+Founder of [Evelion, LLC](https://evelion.org).
